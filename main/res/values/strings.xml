@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Coordinator Layout App</string>
+
+    <string name="random">
+
+        Before development of the  rask list
+ensure the organisation as the following prerequisites
+pre-set;
+
+An implementation room.
+A trial server.
+A LAN/ networking infrastruture.
+Power supply/and a back up power source.
+
+The SE can after this generate a report of the pre-requisites.
+Entitled :ESTABLISHMENT OF THE SCOPE REQUIREMENTS.
+N/B. Always corrrespond to organ/client communication via formal email.
+->Ensure to be time cosciouse, when it comes to meeting with clients.
+#Develop the personnel schedule.
+#Do an activity diagram.
+
+WIlliam Barry
+Factors determining pricing;
+1.Performance
+2.Complexity
+3.Effort in man hours.
+4.Operation cost e.g transportation.
+5.Personnel support.
+6.Taxation.
+7.Overheads e.g.Internet,housing,software license
+8.Miscelleniouse which is 10% of the total cost.
+
+Software Model- Structured set of activities, required to develop a software
+system.
+The activities are; specifications,validation design and evolution.
+A software process model is an abstract representation of a process
+and it presents a description of a process, from some particular perspective.
+
+There are three main software process models;
+Water fall model
+Evolutionary Development
+Component Based software Engineering.
+
+
+    </string>
+</resources>
